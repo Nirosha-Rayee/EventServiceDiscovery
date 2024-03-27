@@ -6,6 +6,7 @@
 
 
 
-![image](https://github.com/Nirosha-Rayee/EventServiceDiscovery/assets/135204611/34c1c77c-c432-4a7b-b25c-228be567bdbf)
+![image](https://github.com/Nirosha-Rayee/EventServiceDiscovery/assets/135204611/ca34ed6e-83d0-496c-ad97-023887cf9cf8)
+
 
 
